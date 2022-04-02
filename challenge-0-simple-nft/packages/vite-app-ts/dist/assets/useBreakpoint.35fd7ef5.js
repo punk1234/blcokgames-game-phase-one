@@ -1,0 +1,1 @@
+import{i as a,k as r}from"./Main.5c9650dc.js";import{r as s}from"./vendor.c51f11b9.js";function p(){var t=s.exports.useState({}),e=a(t,2),n=e[0],o=e[1];return s.exports.useEffect(function(){var u=r.subscribe(function(c){o(c)});return function(){return r.unsubscribe(u)}},[]),n}export{p as u};
