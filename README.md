@@ -2,5 +2,5 @@
 
 ### FRONT-END URL
 ```
-https://aloof-bulb.surge.sh
+http://aloof-bulb.surge.sh
 ```
